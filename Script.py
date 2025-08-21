@@ -35,35 +35,35 @@ Nᴀᴍᴇ - {}"""
     ALRT_TXT = """🔆 It's Not For You❗
 🔆 ये तुम्हारे लिए नहीं है❗"""
 
-    OLD_ALRT_TXT = """ʜᴇʏ {},
-ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴏɴᴇ ᴏꜰ ᴍʏ ᴏʟᴅ ᴍᴇꜱꜱᴀɢᴇꜱ, 
-ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴛʜᴇ ʀᴇQᴜᴇꜱᴛ ᴀɢᴀɪɴ."""
+    OLD_ALRT_TXT = """Hey {},
+You Are Using One Of My Old Messages,
+Please Send The Request Again."""
 
     CUDNT_FND = """<b>❗Enter Correct Name👇</b>
 <b>❗सही नाम दर्ज करें👇</b>"""
 
-    I_CUDNT = """<b><i>💢 404 Error / No Results❗
+    I_CUDNT = """<b><i>💢 Sorry – It’s Not Available❗️
 
-🚫 The Reason❓[<a href="https://telegram.me/FHDmovies24x7Official/3540">Click Here</a>]
-🗨 Please Follow Request Tips
-🔆 Request Tips › [<a href="https://telegram.me/FHDmovies24x7Official/3360">Click Here</a>]</i></b>"""
+⚠️ The Reason❓[<a href="https://telegram.me/FHDmovies24x7Official/3540">Click Here</a>]
+🗨 Please Follow Request Tips !
+🔆 Request Tips ➔ [<a href="https://telegram.me/FHDmovies24x7Official/3360">Click Here</a>]</i></b>"""
 
-    I_CUD_NT = """<b><i>💢 404 Error / No Results❗
+    I_CUD_NT = """<b><i>💢 Sorry – It’s Not Available❗️
 
-🚫 The Reason❓[<a href="https://telegram.me/FHDmovies24x7Official/3540">Click Here</a>]
-🗨 Please Follow Request Tips
-🔆 Request Tips › [<a href="https://telegram.me/FHDmovies24x7Official/3360">Click Here</a>]</i></b>"""
+⚠️ The Reason❓[<a href="https://telegram.me/FHDmovies24x7Official/3540">Click Here</a>]
+🗨 Please Follow Request Tips !
+🔆 Request Tips ➔ [<a href="https://telegram.me/FHDmovies24x7Official/3360">Click Here</a>]</i></b>"""
 
-    MVE_NT_FND = """<b><i>💢 404 Error / No Results❗
+    MVE_NT_FND = """<b><i>💢 Sorry – It’s Not Available❗️
 
-🚫 The Reason❓[<a href="https://telegram.me/FHDmovies24x7Official/3540">Click Here</a>]
-🗨 Please Follow Request Tips
-🔆 Request Tips › [<a href="https://telegram.me/FHDmovies24x7Official/3360">Click Here</a>]</i></b>"""
+⚠️ The Reason❓[<a href="https://telegram.me/FHDmovies24x7Official/3540">Click Here</a>]
+🗨 Please Follow Request Tips !
+🔆 Request Tips ➔ [<a href="https://telegram.me/FHDmovies24x7Official/3360">Click Here</a>]</i></b>"""
 
     TOP_ALRT_MSG = """🔆彡[ @FHDmovies24x7 ]彡🔆"""
 
-    MELCOW_ENG = """<b><i>🔆 "FHDmovies24x7 • GROUP" 亗 🔆
-•───────────────────• 
+    MELCOW_ENG = """<b><i>🔆 "FHDmovies24x7" 亗 🔆
+⌬───━━━━━━━━━━───⌬ 
 ⚜Hey {}, Welcome To FHDmovies24x7 • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
 
     SHORTLINK_INFO = """🔆彡[ @FHDmovies24x7 ]彡🔆"""
